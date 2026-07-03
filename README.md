@@ -165,7 +165,8 @@ Smart-Lender/
 2. Flask validates the input.
 3. Data is preprocessed.
 4. Machine Learning model predicts loan eligibility.
-5. Result is displayed instantly.
+5. Prediction result is generated.
+6. Loan Approval or Rejection status is displayed instantly.
 
 ---
 
