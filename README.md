@@ -122,7 +122,8 @@ The application predicts:
 
 ## 💻 GitHub Repository
 
-🔗  https://github.com/swapna-2006/Smart-Lender-project
+🔗 https://github.com/swapna-2006/Smart-Lender-project
+
 ---
 
 ## 👨‍💻 Team Members
