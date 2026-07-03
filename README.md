@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-Smart Lender is a Machine Learning-powered web application that predicts whether a loan application is likely to be approved based on applicant details such as income, education, loan amount, credit history, and property area.
-
-The application uses a trained Machine Learning classification model and provides instant loan approval predictions through a user-friendly Flask web interface.
+Smart Lender is an AI-powered Loan Approval Prediction System developed using Machine Learning and Flask. The application predicts whether a loan application is likely to be approved based on applicant information. The project is deployed on Render and source code is maintained on GitHub.
 
 ## 🚀 Features
 - User-friendly loan application form
@@ -124,18 +122,27 @@ The application predicts:
 
 ## 💻 GitHub Repository
 
-🔗 https://github.com/swapna-2006/Smart-Lender-project
-
+🔗  https://github.com/swapna-2006/Smart-Lender-project
 ---
 
-## 👩‍💻 Team
+## 👨‍💻 Team Members
 
-- Swapna Kosuri (Team Lead)
-- Manikanta Suryasai Sunkara
-- Hareesh Vavilapalli
-- Rahul Tharak
-- Ungarala Siddhardha Lakshmi Balaji Naidu
+**Team Lead**
+- **Swapna Kosuri**
+  - Email: swapnakosuri2006@gmail.com
 
+**Team Members**
+- **Manikanta Suryasai Sunkara**
+  - Email: 24p35a4232@acet.ac.in
+
+- **Hareesh Vavilapalli**
+  - Email: hareeshvavilapalli180@gmail.com
+
+- **Rahul Tharak**
+  - Email: rahultharak12@gmail.com
+
+- **Ungarala Siddhardha Lakshmi Balaji Naidu**
+  - Email: siddhardhaungarala@gmail.com
 
 ## 📜 License
 
